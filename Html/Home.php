@@ -95,7 +95,7 @@
                         <h2 data-aos="fade-up">Find your magical Books</h2>
                         <p data-aos="fade-up" data-aos-delay="100">Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p>
                         <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-                            <a href="#book-a-table" class="btn-book-a-table">Book a Table</a>
+                            <a href="#book-a-table" class="btn-book-a-table">Find Your Book</a>
                         </div>
                     </div>
                     <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">

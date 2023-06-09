@@ -177,12 +177,12 @@ if ($_SESSION['loggedin']) {
                 ?>
                         <div class="col-lg-4 menu-item">
                             <a href="assets/img/menu/menu-item-1.png" class="glightbox"><img src="<?= $pathgh ?>" class="menu-img img-fluid" alt=""></a>
-                            <h4>Magnam Tiste</h4>
+                            <h4><?=  $row['bookname']?></h4>
                             <p class="ingredients">
-                                Lorem, deren, trataro, filede, nerada
+                           Semester :-  <?=  $row['semester']?>
                             </p>
                             <p class="price">
-                                $5.95
+                                $<?=  $row['bookprice']?>
                             </p>
                         </div>
 
